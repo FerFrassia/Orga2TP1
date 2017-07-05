@@ -1,0 +1,12 @@
+Nombre:
+kukamonga
+Ciudades:
+[cocula,342]
+[montebello,12041]
+[north haverbrook,1244]
+Rutas:
+[cocula,montebello,233.0]
+[cocula,north haverbrook,236.0]
+[montebello,north haverbrook,232.0]
+Ciudad mas poblada: [montebello,12041]
+Ruta mas larga: [cocula,north haverbrook,236.0]
